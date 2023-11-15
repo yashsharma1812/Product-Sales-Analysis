@@ -26,3 +26,7 @@ The analysis has revealed several key insights, including:
 - Sales distribution across different years
 
 For a detailed overview, refer to the Jupyter notebook and Power BI dashboard.
+
+
+## Dataset Link:
+https://www.kaggle.com/datasets/edusanketdk/electronics
