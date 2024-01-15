@@ -18,6 +18,9 @@ The Power BI dashboard provides an interactive and user-friendly interface for e
 - Brands with the most and least sales
 - Categories with the most and least sales
 
+Dashboard Link:
+https://www.novypro.com/project/amazon-electronic-sales-analysis
+
 ##  Key Insights
 The analysis has revealed several key insights, including:
 
